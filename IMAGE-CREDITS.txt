@@ -1,0 +1,25 @@
+Pra River near Wassa Atobiase, Ghana
+Same satellite footprint, centered near 5.33425° N, 1.61087° W.
+Left or earlier image: 1 December 2024. Right or later image: 30 April 2026.
+
+Credit: Contains modified Copernicus Sentinel data 2024, 2026.
+Sentinel-2 imagery processed by Galamsey Tracker. Its published comparison was split into two JPEGs for the demo.
+Source: https://galamseytracker.org/rivers/pra/
+Methodology: https://galamseytracker.org/method/
+Original pair: https://galamsey-tracker-pictures.pages.dev/chips/2025-11-5334n1611w/pair-720.webp
+Data licence: https://cds.climate.copernicus.eu/licences/ec-sentinel
+
+The images are satellite observations and show visible land-cover differences. Use simulated labels for any accompanying field notes or readings. The imagery cannot establish turbidity, contamination, cause, or mining legality.
+
+Independent catalog cross-check
+Element 84 Earth Search returned one Sentinel-2 L2A scene intersecting the selected site on each date:
+2024-12-01 10:39:45 UTC — S2B_30NXL_20241201_0_L2A
+https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_30NXL_20241201_0_L2A
+2026-04-30 10:39:44 UTC — S2C_30NXL_20260430_0_L2A
+https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_30NXL_20260430_0_L2A
+The published crop and left/right ordering were checked against Galamsey Tracker's Pra page metadata.
+
+Landing photograph: River Pra of Ghana by Efo Komla, CC BY-SA 4.0.
+Source: https://commons.wikimedia.org/wiki/File:River_Pra_of_Ghana.jpg
+License: https://creativecommons.org/licenses/by-sa/4.0/
+The website copy was resized and converted to WebP and remains CC BY-SA 4.0.
