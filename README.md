@@ -2,7 +2,7 @@
 
 River Monitoring helps citizens in Ghana document changes at water bodies, compare dated observations, and share a reviewed record with people who can follow up. Photos and notes record visible conditions and the observer’s account. A turbidity reading is recorded only when someone supplies a measurement.
 
-[Watch the demo](https://youtu.be/wpx3EbkCJtc) · [Image credits](IMAGE-CREDITS.txt)
+[Open the live app](https://river-monitoring-91a53.web.app/) · [Watch the demo](https://youtu.be/wpx3EbkCJtc) · [Image credits](IMAGE-CREDITS.txt)
 
 ## Try the workflow
 

@@ -1,5 +1,7 @@
 # River Monitoring demo
 
+[Live app](https://river-monitoring-91a53.web.app/) · [Source code](https://github.com/emmanuelkyeremeh/river-monitoring) · [Recorded demo](https://youtu.be/wpx3EbkCJtc)
+
 ## Before recording
 
 Use desktop Chrome with Gemini Nano already downloaded. Open the production preview or hosted build once while connected to cache the app. Keep the two Wassa Atobiase JPEGs and the credit text nearby as separate demo materials. Use a fresh browser profile to start with empty history. For the second browser, use the hosted build after configuring production App Check, or the localhost development build with a registered debug token.
